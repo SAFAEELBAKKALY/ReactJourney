@@ -1,12 +1,46 @@
-# React + Vite
+# React Journey 🚀
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+My journey learning React.js — exercises, mini-projects, and notes as I build my fundamentals in React, coming from a background in PHP/WordPress/jQuery.
 
-Currently, two official plugins are available:
+## About
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+This repo tracks my progress through React fundamentals: JSX, components, props, state, hooks, and eventually routing and API integration. It's organized as a learning log rather than a production project.
 
-## Expanding the ESLint configuration
+## Tech Stack
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- React
+- Vite
+- JavaScript (ES6+)
+- HTML/CSS
+
+## Structure
+react-journey/
+├── 01-jsx-basics/
+├── 02-props-composition/
+├── 03-usestate/
+├── 04-useeffect-api/
+└── mini-projects/
+
+## Progress Log
+
+- [x] JSX & components
+- [x] Props & composition
+- [ ] useState & event handling
+- [ ] useEffect & API calls
+- [ ] React Router
+- [ ] Mini-project: [nom du projet]
+
+## Getting Started
+
+Each folder is a separate Vite project. To run one:
+
+```bash
+cd folder-name
+npm install
+npm run dev
+```
+
+## Author
+
+**Safae El Bakkaly** — Full Stack Web Developer
+[GitHub](github.com/SAFAEELBAKKALY) · [LinkedIn](linkedin.com/in/safae-el-bakkaly)
