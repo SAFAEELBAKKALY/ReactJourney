@@ -1,0 +1,169 @@
+* {
+    box-sizing: border-box;
+    font-family: 'Inter', sans-serif;
+}
+
+body {
+    padding: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    background: #27292c;
+    color: white;
+    margin: 0;
+}
+
+h1 {
+    margin-top: 30px;
+}
+
+.header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.nav-list {
+    list-style: none;
+    display: flex;
+}
+
+.nav-list-item {
+    margin-left: 10px;
+    font-size: 1.1rem;
+}
+
+.nav-logo {
+    width: 55px;
+}
+
+/**challenge 1**/
+.p1-header
+{
+    color: white;
+    background-color: lightseagreen;
+    height: 20%;
+}
+
+.p1-header > h1
+{
+    padding-top: 40px;
+    justify-self: center;
+}
+
+.main
+{
+    display: flex;
+    flex-direction: row;
+    background-color: white;
+    width: 100%;
+    justify-content: center;
+}
+
+.main > .droite
+{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    margin: 10px;
+    padding: 10px;
+    border: 2px solid lightseagreen;
+    background-color: white;
+    width: 250px;
+    height: 60%;
+    justify-content: center;
+}
+
+.main > .droite > button
+{
+    background-color: lightpink;
+    color: white;
+    margin: 10px;
+    padding: 10px;
+    border-radius: 10px;
+    box-shadow: #27292c;
+}
+
+.main > .gauche
+{
+    color: white;
+    border-color: lightseagreen;
+}
+
+.main > .gauche > .post
+{
+    display: flex;
+    flex-direction: column;
+    margin: 10px;
+    padding: 10px;
+    color: black;
+    background-color: white;
+    border: 2px solid lightseagreen;
+    justify-content: center;
+    width: 350px;
+}
+
+.main > .gauche > .post > .bar
+{
+    border: 1px solid lightslategrey;
+    width: 90%;
+    justify-self: center;
+}
+/**************/
+/*****Navbar****/
+header
+{
+    height: 90px;
+}
+header > nav
+{
+    display: flex;
+    flex-direction: row;
+    background-color: #21222A;
+    gap: 10px;
+    /**margin: 10px;**/
+    padding: 10px;
+}
+
+.navbar-img
+{
+    height: 90px;
+    width: 90px;
+    justify-self: center;
+}
+
+.navbar-txt
+{
+    color: #61DAFB;
+}
+/**************/
+/*****Main******/
+main
+{
+    padding: 60px 30px;
+    background-image: url(pic/half-logo.png);
+    background-repeat: no-repeat;
+    background-position-x: right;
+    background-position-y: 65%;
+}
+
+main > h1
+{
+    margin: 0;
+    font-size: 2.4rem;
+}
+
+main > .main-list
+{
+    margin-top: 46px;
+    max-width: 400px;
+}
+
+.main-list > li {
+    padding-block: 10px;
+    line-height: 19px;
+}
+
+.main-list > li::marker {
+    color: #61DAFB;
+    font-size: 1.5rem;
+}
+/**************/
