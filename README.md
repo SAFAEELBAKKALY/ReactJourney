@@ -13,13 +13,9 @@ This repo tracks my progress through React fundamentals: JSX, components, props,
 - JavaScript (ES6+)
 - HTML/CSS
 
-## Structure
-react-journey/
-├── 01-jsx-basics/
-├── 02-props-composition/
-├── 03-usestate/
-├── 04-useeffect-api/
-└── mini-projects/
+## EXEMPLE
+<img width="1294" height="473" alt="image" src="https://github.com/user-attachments/assets/1409d4f5-52ca-4678-8ec7-d8b0d79b8524" />
+
 
 ## Progress Log
 
