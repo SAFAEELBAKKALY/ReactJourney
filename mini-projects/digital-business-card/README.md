@@ -5,6 +5,8 @@ A digital business card built with React as part of my [React Journey](../../) l
 ## About
 
 This mini-project applies React fundamentals — components, props, and styling — to build an interactive digital business card.
+<img width="489" height="588" alt="image" src="https://github.com/user-attachments/assets/a7f14bda-7d7c-47ef-9f76-f7f80f2f8897" />
+
 
 ## Tech Stack
 
