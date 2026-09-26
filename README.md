@@ -13,7 +13,7 @@ This repo tracks my progress through React fundamentals: JSX, components, props,
 - JavaScript (ES6+)
 - HTML/CSS
 
-## EXEMPLE
+## Preview
 <img width="1294" height="473" alt="image" src="https://github.com/user-attachments/assets/1409d4f5-52ca-4678-8ec7-d8b0d79b8524" />
 
 
