@@ -1,0 +1,82 @@
+/********************Header*********************/
+
+.main
+{
+  width: 1200px;
+  border: 2px solid #F55A5A;
+}
+
+header
+{
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  background-color: #F55A5A;
+  justify-content: center;
+  width: 1200px;
+  border: 2px solid white;
+  justify-self: center;
+  height: 55px;
+}
+
+header > img
+{
+  padding-top: 5px;
+  width: 30px;
+  height: 30px;
+}
+
+header > h2
+{
+  color: white;
+  align-self: end;
+}
+/***********************************************/
+/*********************Entry********************/
+.Entry-cont
+{
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  padding: 10px;
+}
+
+.Entry-cont > .elem-cont
+{
+  display: flex;
+  flex-direction: column;
+  padding: 20px;
+}
+
+.Entry-cont > .elem-cont > .top-line
+{
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+}
+
+.Entry-cont > .elem-cont > .top-line > .elem-img
+{
+  width: 30px;
+  height: 30px;
+  padding-top: 10px;
+}
+
+/**.Entry-cont > .elem-cont > .top-line > .elem-name
+{
+  
+}**/
+
+.Entry-cont > .elem-cont > .top-line > a
+{
+  padding-top: 25px;
+  color: #918E9B;
+  text-align: center;
+}
+
+.Entry-cont > .elem-cont > .elem-desc
+{
+  line-height: 1.5;
+  font-size: 1rem;
+}
+/**********************************************/
