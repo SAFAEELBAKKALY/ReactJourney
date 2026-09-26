@@ -18,11 +18,13 @@ This repo tracks my progress through React fundamentals: JSX, components, props,
 
 
   =>Digital Business Card
+  <br>
   <img width="489" height="588" alt="Capture d&#39;écran 2026-09-24 015532" src="https://github.com/user-attachments/assets/5d319a12-b78d-4143-a096-392ffc91eff6" />
 
 
   
   =>Travel journal
+  <br>
   <img width="699" height="635" alt="Capture d&#39;écran 2026-09-26 220425" src="https://github.com/user-attachments/assets/3cae90fa-868a-4fe1-ab67-2fa21bd8b076" />
 
 
