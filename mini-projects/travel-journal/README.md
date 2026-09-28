@@ -10,9 +10,8 @@ A digital travel journal built with React, displaying trip entries with images, 
 
 ## About
 
-## About
+This mini-project builds a data-driven Travel Journal: entries are stored in a data array and rendered dynamically with `.map()`, using a single reusable `Entry` component.
 
-This mini-project practices building a reusable, data-driven React component. A single `Entry` component receives its content (image, location, title, dates, description) via props, and is reused for each travel entry instead of duplicating markup.
 
 ## Tech Stack
 
