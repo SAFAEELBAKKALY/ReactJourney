@@ -33,7 +33,7 @@ header > h2
 }
 /***********************************************/
 /*********************Entry********************/
-.Entry-cont
+.EntryCont
 {
   display: flex;
   flex-direction: row;
@@ -41,42 +41,48 @@ header > h2
   padding: 10px;
 }
 
-.Entry-cont > .elem-cont
+.EntryCont > .elemCont
 {
   display: flex;
   flex-direction: column;
   padding: 20px;
 }
 
-.Entry-cont > .elem-cont > .top-line
+.EntryCont > .elemCont > .topLine
 {
   display: flex;
   flex-direction: row;
   gap: 10px;
 }
 
-.Entry-cont > .elem-cont > .top-line > .elem-img
+.EntryCont > .elemCont > .topLine > .elemImg
 {
   width: 30px;
   height: 30px;
   padding-top: 10px;
 }
 
-/**.Entry-cont > .elem-cont > .top-line > .elem-name
+/**.EntryCont > .elemCont > .topLine > .elemName
 {
   
 }**/
 
-.Entry-cont > .elem-cont > .top-line > a
+.EntryCont > .elemCont > .topLine > a
 {
   padding-top: 25px;
   color: #918E9B;
   text-align: center;
 }
 
-.Entry-cont > .elem-cont > .elem-desc
+.EntryCont > .elemCont > .elemDesc
 {
   line-height: 1.5;
   font-size: 1rem;
+}
+
+hr
+{
+  width: 95%;
+  color: #F5F5F5;
 }
 /**********************************************/
