@@ -2,10 +2,10 @@ export default function Entry(props)
 {
     return(
         <div className="EntryCont">
-            <img className="entryImg" src={props.entryImg} />
+            <img className="entryImg" src={props.entryImg.src} alt={props.entryImg.alt} />
             <div className="elemCont">
                 <div className='topLine'>
-                    <img className="elemImg" src={props.elemImg} />
+                    <img className="elemImg" src={props.elemImg.src} alt={props.elemImg.alt} />
                     <h2 className="elemName">{props.elemName}</h2>
                     <a className="elemLink" href={props.elemLink}>View on Google Maps</a>
                 </div>
