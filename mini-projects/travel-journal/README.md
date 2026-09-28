@@ -10,7 +10,9 @@ A digital travel journal built with React, displaying trip entries with images, 
 
 ## About
 
-This mini-project practices building and rendering multiple React components, each representing a travel entry with a photo, location marker, title, date range, and description.
+## About
+
+This mini-project practices building a reusable, data-driven React component. A single `Entry` component receives its content (image, location, title, dates, description) via props, and is reused for each travel entry instead of duplicating markup.
 
 ## Tech Stack
 
