@@ -146,4 +146,9 @@ main > form > button
     content: "+";
     margin-right: 5px;
 }
+
+main > ul > li
+{
+  justify-self: left;
+}
 /**********************/
