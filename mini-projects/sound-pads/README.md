@@ -4,7 +4,7 @@ A grid of interactive pads that can be toggled on and off, built with React as p
 
 ## Preview
 
-![Sound Pads Preview](./screenshot.png)
+![Sound Pads Preview](<img width="1303" height="625" alt="image" src="https://github.com/user-attachments/assets/227990a8-935b-428e-bee6-7634c5eca55c" />)
 
 ## About
 
@@ -34,7 +34,5 @@ npm run dev
 ## Author
 
 **Safae El Bakkaly** — Full Stack Web Developer
-[GitHub](ton-lien) · [LinkedIn](ton-lien)
-
-<img width="1303" height="625" alt="image" src="https://github.com/user-attachments/assets/227990a8-935b-428e-bee6-7634c5eca55c" />
+[GitHub](https://github.com/SAFAEELBAKKALY) · [LinkedIn](https://linkedin.com/in/safae-el-bakkaly)
 
