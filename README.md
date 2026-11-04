@@ -17,15 +17,27 @@ This repo tracks my progress through React fundamentals: JSX, components, props,
 <img width="1294" height="473" alt="image" src="https://github.com/user-attachments/assets/1409d4f5-52ca-4678-8ec7-d8b0d79b8524" />
 
 
-  =>Digital Business Card
+  => mini-projects/digital-business-Card
   <br>
   <img width="489" height="588" alt="Capture d&#39;écran 2026-09-24 015532" src="https://github.com/user-attachments/assets/5d319a12-b78d-4143-a096-392ffc91eff6" />
 
 
   
-  =>Travel journal
+  => mini-projects/travel-journal
   <br>
   <img width="699" height="635" alt="Capture d&#39;écran 2026-09-26 220425" src="https://github.com/user-attachments/assets/3cae90fa-868a-4fe1-ab67-2fa21bd8b076" />
+
+=> mini-projects/sound-pads
+<br>
+<img width="1303" height="625" alt="image" src="https://github.com/user-attachments/assets/227990a8-935b-428e-bee6-7634c5eca55c" />
+
+
+
+=> mini-projects/chef-claude
+<br>
+<img width="1347" height="596" alt="image" src="https://github.com/user-attachments/assets/30aeb64d-5707-40cc-a41e-e88b31e11e74" />
+<img width="1352" height="595" alt="image" src="https://github.com/user-attachments/assets/8d84d407-1748-4f95-85c7-14dd6c3b2661" />
+
 
 
 ## Progress Log
@@ -35,7 +47,7 @@ This repo tracks my progress through React fundamentals: JSX, components, props,
 - [x] useState & event handling
 - [x] useEffect & API calls
 - [x] React Router
-- [x] Mini-project: digital-business-card ~ travel-journal
+- [x] Mini-project: digital-business-card ~ travel-journal ~ sound-pads ~ chef-claude
 
 ## Getting Started
 
