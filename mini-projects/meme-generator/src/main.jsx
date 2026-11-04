@@ -1,10 +1,29 @@
-import { StrictMode } from 'react'
-import { createRoot } from 'react-dom/client'
-import './index.css'
-import App from './App.jsx'
+export default function Main() {
+  return (
+    <main>
+      <div className="form">
+        <label>Top Text
+          <input
+            type="text"
+            placeholder="One does not simply"
+            name="topText"
+          />
+        </label>
 
-createRoot(document.getElementById('root')).render(
-  <StrictMode>
-    <App />
-  </StrictMode>,
-)
+        <label>Bottom Text
+          <input
+            type="text"
+            placeholder="Walk into Mordor"
+            name="bottomText"
+          />
+        </label>
+        <button>Get a new meme image 🖼</button>
+      </div>
+      <div className="meme">
+        <img src="http://i.imgflip.com/1bij.jpg" />
+        <span className="top">One does not simply</span>
+        <span className="bottom">Walk into Mordor</span>
+      </div>
+    </main>
+  )
+}
