@@ -47,7 +47,7 @@ This repo tracks my progress through React fundamentals: JSX, components, props,
 - [x] useState & event handling
 - [x] useEffect & API calls
 - [x] React Router
-- [x] Mini-project: digital-business-card ~ travel-journal
+- [x] Mini-project: digital-business-card ~ travel-journal ~ sound-pads ~ chef-claude
 
 ## Getting Started
 
