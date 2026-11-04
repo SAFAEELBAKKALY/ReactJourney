@@ -1,12 +1,12 @@
-import trollFace from "./img/troll-face.png"
+import Header from "./Header.jsx"
+import Main from "./main.jsx"
 
-export default function Header() {
-  return (
-    <header className="header">
-      <img 
-        src={trollFace} 
-      />
-      <h1>Meme Generator</h1>
-    </header>
-  )
+export default function App() {
+    
+    return (
+      <>
+        <Header />
+        <Main />
+      </>
+    )
 }
